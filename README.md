@@ -6,10 +6,6 @@
 - [老生常谈 jsonp](https://github.com/yp94/blog/issues/7)
 - [this一步到位](https://github.com/yp94/blog/issues/8)
 
-## React
-
-- [Redux middleware洋葱模型探究](https://github.com/yp94/blog/issues/2)
-
 ## Node.js
 
 - [实现CommonJS require方法](https://github.com/yp94/blog/issues/3)
